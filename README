@@ -1,0 +1,15 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3425
+
+This file is a fork of this vimscript#1491 and the stock vim javascript syntax file.
+
+This version of this file features the following text highlights:
+Parenthesis, curly and regular brackets.
+The semicolon or comma at the end of line.
+Browser, DOM and "Ajax" keywords like objects, methods, properties and others.
+Operation, comparison and logical symbols (=,==,===,!=,etc.).
+
+Screenshots:
+http://imgur.com/a/sn8fz
+
+Follow all the changes, also to contribute or report bugs.
+https://github.com/jelera/vim-javascript-syntax
